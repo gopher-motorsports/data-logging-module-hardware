@@ -1,3 +1,8 @@
+ - Fix many schematic errors
  - Test connecting to STM32 without a network switch (switch RX and TX lines and set IP manually)
  - Learn more about the whole ethernet block and figure out what is needed
  - Find and test pins for UART for telemetry
+ - Test new CAN trancievers
+ - Finish MCU schematic
+ - Pick connector and finish connector schematic
+ - Do we really want ST-link connectors in the harness? (emi reasons)
