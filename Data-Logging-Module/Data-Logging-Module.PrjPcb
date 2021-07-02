@@ -1137,6 +1137,24 @@ UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
 
+[NetInfos]
+Net1=NetName=ETH_RX-|NetColor=$00000098
+Net2=NetName=ETH_RX+|NetColor=$00000098
+Net3=NetName=ETH_TX-|NetColor=$000099FF
+Net4=NetName=ETH_TX+|NetColor=$000099FF
+Net5=NetName=NetJ1_15|NetColor=$000099FF
+Net6=NetName=NetJ1_16|NetColor=$000099FF
+Net7=NetName=NetJ1_17|NetColor=$00000098
+Net8=NetName=NetJ1_18|NetColor=$00000098
+Net9=NetName=RX_N|NetColor=$00000098
+Net10=NetName=RX_P|NetColor=$00000098
+Net11=NetName=RX_PHYS_N|NetColor=$00000098
+Net12=NetName=RX_PHYS_P|NetColor=$00000098
+Net13=NetName=TX_N|NetColor=$000099FF
+Net14=NetName=TX_P|NetColor=$000099FF
+Net15=NetName=TX_PHYS_N|NetColor=$000099FF
+Net16=NetName=TX_PHYS_P|NetColor=$000099FF
+
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
 ComparisonOptions1=Kind=Net Class|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
