@@ -6,15 +6,11 @@ DEV BOARD TESTING
    - Make sure basic TX works from the STM
  - Test new CAN trancievers
    - Get them on the test board and run them at 3.3V
+ - Find ferrite bead from dev board for the ethernet PHY
 
 SCHEMATIC CREATION
  - Pick connector and finish connector schematic
- - Put some EMI filtering on the STLINK pins?
- - Check power requirements
-   - Current to ethernet PHY LEDs (check LED configurations)
-   - Power to all chips
-   - Current to LEDs the are pull on the STM
- - Find ferrite bead from dev board for the ethernet PHY
+ - Talk to Henry about power budget
 
 LAYOUT
  - Put testpoints around the ethernet PHY to allow for modifications if needed
