@@ -6,7 +6,6 @@ DEV BOARD TESTING
    - Make sure basic TX works from the STM
  - Test new CAN trancievers
    - Get them on the test board and run them at 3.3V
- - Find ferrite bead from dev board for the ethernet PHY
 
 SCHEMATIC CREATION
  - Pick connector and finish connector schematic
