@@ -4,12 +4,13 @@ DEV BOARD TESTING
    - Set static IP and try to find it with laptop
  - Find and test pins for UART for telemetry (uart7 on PE7 and PE8)
    - Make sure basic TX works from the STM
+ - Test CAN3 Pins
+   - 3 GCAN Busses
  - Test new CAN trancievers
    - Get them on the test board and run them at 3.3V
 
 SCHEMATIC CREATION
- - Pick connector and finish connector schematic
- - Talk to Henry about power budget
+ - Henry's list of notes, only MCU_POWER stuff remaining
 
 LAYOUT
  - Put testpoints around the ethernet PHY to allow for modifications if needed
