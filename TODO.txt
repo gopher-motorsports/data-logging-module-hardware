@@ -10,7 +10,6 @@ DEV BOARD TESTING
    - Get them on the test board and run them at 3.3V
 
 SCHEMATIC CREATION
- - Henry's list of notes, only MCU_POWER stuff remaining
 
 LAYOUT
  - Put testpoints around the ethernet PHY to allow for modifications if needed
