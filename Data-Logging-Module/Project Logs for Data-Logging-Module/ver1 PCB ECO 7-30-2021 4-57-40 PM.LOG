@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=GND Pin=J1-3
+Change Component Footprint: Designator=J1 Old Footprint=FP-PJ-044A-MFG New Footprint=CUI_PJ-037A
+Change Component Comment : Designator=J1 Old Comment=PJ-044A New Comment=PJ-037A
+Change Managed Component Library Link : Designator=J1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=BD6BFDCA-EDEE-4609-BE50-26734A4212AC New ItemGUID= Old RevisionGUID=4B78C850-ED28-470C-8AF5-99A47100BD05 New RevisionGUID=
+Change component parameters: Designator = "J1" ("J1"); Footprint = "FP-PJ-044A-MFG"; UniqueID = "\LBDNEHWW\PRETZBAG" ("\LBDNEHWW\PRETZBAG")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CUI_purchase_URL"; Value = "https://www.cuidevices.com/product/interconnect/connectors/dc-power-connectors/jacks/pj-037a?utm_source=snapeda.com&utm_medium=referral&utm_campaign=snapedaBOM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "CUI Devices"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "PJ-037A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/PJ-037A/CUI%20Devices/view-part/493699/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=U_MCU_POWER Member=Component R8 Res3
