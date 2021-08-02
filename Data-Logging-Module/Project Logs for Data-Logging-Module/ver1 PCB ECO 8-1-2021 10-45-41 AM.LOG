@@ -1,0 +1,15 @@
+Removed Member From Class: ClassName=U_CONNECTOR Member=P6
+Change Component Designator: OldDesignator=C16_CAN1 NewDesignator=C16_U_CAN_TRANSCEIVER1
+Change Component Designator: OldDesignator=C16_CAN2 NewDesignator=C16_U_CAN_TRANSCEIVER2
+Change Component Designator: OldDesignator=C16_CAN3 NewDesignator=C16_U_CAN_TRANSCEIVER3
+Change Component Designator: OldDesignator=R31_CAN1 NewDesignator=R31_U_CAN_TRANSCEIVER1
+Change Component Designator: OldDesignator=R31_CAN2 NewDesignator=R31_U_CAN_TRANSCEIVER2
+Change Component Designator: OldDesignator=R31_CAN3 NewDesignator=R31_U_CAN_TRANSCEIVER3
+Change Component Designator: OldDesignator=U2_CAN1 NewDesignator=U2_U_CAN_TRANSCEIVER1
+Change Component Designator: OldDesignator=U2_CAN2 NewDesignator=U2_U_CAN_TRANSCEIVER2
+Change Component Designator: OldDesignator=U2_CAN3 NewDesignator=U2_U_CAN_TRANSCEIVER3
+Change Net Name : Old Net Name=NetP6_2 New Net Name=SWCLK
+Change Net Name : Old Net Name=NetP6_4 New Net Name=SWDIO
+Change Net Name : Old Net Name=NetP6_6 New Net Name=SWO
+Added Member To Class: ClassName=U_CONNECTOR Member=Component J3 Modular Jack WR-MJ
+Added Member To Class: ClassName=U_MCU Member=Component P6 Nucleo Connector

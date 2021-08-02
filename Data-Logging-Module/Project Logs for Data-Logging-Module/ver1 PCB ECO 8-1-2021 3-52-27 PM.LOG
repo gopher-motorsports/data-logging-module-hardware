@@ -1,0 +1,9 @@
+Change Component Designator: OldDesignator=C16_CAN3_CAN1 NewDesignator=C16_CAN1
+Change Component Designator: OldDesignator=C16_CAN3_CAN2 NewDesignator=C16_CAN2
+Change Component Designator: OldDesignator=C16_CAN3_CAN3 NewDesignator=C16_CAN3
+Change Component Designator: OldDesignator=R31_CAN3_CAN1 NewDesignator=R31_CAN1
+Change Component Designator: OldDesignator=R31_CAN3_CAN2 NewDesignator=R31_CAN2
+Change Component Designator: OldDesignator=R31_CAN3_CAN3 NewDesignator=R31_CAN3
+Change Component Designator: OldDesignator=U2_CAN3_CAN1 NewDesignator=U2_CAN1
+Change Component Designator: OldDesignator=U2_CAN3_CAN2 NewDesignator=U2_CAN2
+Change Component Designator: OldDesignator=U2_CAN3_CAN3 NewDesignator=U2_CAN3

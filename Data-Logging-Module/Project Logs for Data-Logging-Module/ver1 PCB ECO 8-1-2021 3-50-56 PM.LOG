@@ -1,0 +1,26 @@
+Change Component Designator: OldDesignator=C16_CAN1 NewDesignator=C16_CAN3_CAN1
+Change Component Designator: OldDesignator=C16_CAN2 NewDesignator=C16_CAN3_CAN2
+Change Component Designator: OldDesignator=C16_CAN3 NewDesignator=C16_CAN3_CAN3
+Change Component Designator: OldDesignator=R31_CAN1 NewDesignator=R31_CAN3_CAN1
+Change Component Designator: OldDesignator=R31_CAN2 NewDesignator=R31_CAN3_CAN2
+Change Component Designator: OldDesignator=R31_CAN3 NewDesignator=R31_CAN3_CAN3
+Change Component Designator: OldDesignator=U2_CAN1 NewDesignator=U2_CAN3_CAN1
+Change Component Designator: OldDesignator=U2_CAN2 NewDesignator=U2_CAN3_CAN2
+Change Component Designator: OldDesignator=U2_CAN3 NewDesignator=U2_CAN3_CAN3
+Added Pin To Net: NetName=NetC20_1 Pin=U4-1
+Added Pin To Net: NetName=NetC20_1 Pin=U4-19
+Change Net Name : Old Net Name=CAN_U_CAN_TRANSCEIVER1_N New Net Name=CAN_CAN1_N
+Change Net Name : Old Net Name=CAN_U_CAN_TRANSCEIVER1_P New Net Name=CAN_CAN1_P
+Change Net Name : Old Net Name=CAN_U_CAN_TRANSCEIVER2_N New Net Name=CAN_CAN2_N
+Change Net Name : Old Net Name=CAN_U_CAN_TRANSCEIVER2_P New Net Name=CAN_CAN2_P
+Change Net Name : Old Net Name=CAN_U_CAN_TRANSCEIVER3_N New Net Name=CAN_CAN3_N
+Change Net Name : Old Net Name=CAN_U_CAN_TRANSCEIVER3_P New Net Name=CAN_CAN3_P
+Change Class Name : Old Net Name=U_CAN_TRANSCEIVER2 New Net Name=CAN2
+Change Class Name : Old Net Name=U_CAN_TRANSCEIVER3 New Net Name=CAN3
+Added Class: Name=CAN1
+Added Differential Pair: Name=CAN_CAN1
+Added Differential Pair: Name=CAN_CAN2
+Added Differential Pair: Name=CAN_CAN3
+Added Room: Name=CAN1
+Added Room: Name=CAN2
+Added Room: Name=CAN3
