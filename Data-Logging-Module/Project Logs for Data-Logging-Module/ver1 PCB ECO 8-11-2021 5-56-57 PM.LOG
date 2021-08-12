@@ -1,0 +1,19 @@
+Change Net Name : Old Net Name=CAN_C2_N New Net Name=NetP2_3
+Change Net Name : Old Net Name=CAN_C2_P New Net Name=NetP2_2
+Added Pin To Net: NetName=C3_N Pin=P3-3
+Added Pin To Net: NetName=C3_N Pin=R35_C3-1
+Added Pin To Net: NetName=C3_N Pin=U2_C3-6
+Added Net: Name=C3_N
+Added Pin To Net: NetName=C3_P Pin=P3-2
+Added Pin To Net: NetName=C3_P Pin=R35_C3-2
+Added Pin To Net: NetName=C3_P Pin=U2_C3-7
+Added Net: Name=C3_P
+Added Pin To Net: NetName=NetP1_2 Pin=P1-2
+Added Pin To Net: NetName=NetP1_2 Pin=R35_C1-2
+Added Pin To Net: NetName=NetP1_2 Pin=U2_C1-7
+Added Net: Name=NetP1_2
+Added Pin To Net: NetName=NetP1_3 Pin=P1-3
+Added Pin To Net: NetName=NetP1_3 Pin=R35_C1-1
+Added Pin To Net: NetName=NetP1_3 Pin=U2_C1-6
+Added Net: Name=NetP1_3
+Added Differential Pair: Name=C3

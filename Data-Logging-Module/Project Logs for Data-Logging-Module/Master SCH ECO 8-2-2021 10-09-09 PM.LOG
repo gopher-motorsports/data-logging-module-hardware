@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=R35 NewDesignator=R31_CAN1
+Change Component Designator: OldDesignator=R31_CAN1 NewDesignator=R31_CAN2
+Change Component Designator: OldDesignator=R31_CAN2 NewDesignator=R31_CAN3

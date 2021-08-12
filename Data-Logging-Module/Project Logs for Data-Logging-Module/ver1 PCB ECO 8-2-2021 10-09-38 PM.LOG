@@ -1,0 +1,6 @@
+Removed Member From Class: ClassName=U_ETHERNET_INTERFACE Member=R31_CAN1
+Change Component Designator: OldDesignator=R31_CAN1 NewDesignator=R31_CAN3_CAN1
+Change Component Designator: OldDesignator=R31_CAN2 NewDesignator=R31_CAN3_CAN2
+Change Component Designator: OldDesignator=R31_CAN3 NewDesignator=R31_CAN3_CAN3
+Added Member To Class: ClassName=CAN1 Member=Component C16_CAN1 (C16) 100nF
+Added Member To Class: ClassName=U_ETHERNET_INTERFACE Member=Component R31 Res3

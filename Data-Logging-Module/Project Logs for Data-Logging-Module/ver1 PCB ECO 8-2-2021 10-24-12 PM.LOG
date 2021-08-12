@@ -1,0 +1,24 @@
+Change Component Designator: OldDesignator=C16_CAN1 NewDesignator=C16_C1
+Change Component Designator: OldDesignator=C16_CAN2 NewDesignator=C16_C2
+Change Component Designator: OldDesignator=C16_CAN3 NewDesignator=C16_C3
+Change Component Designator: OldDesignator=R35_CAN1 NewDesignator=R35_C1
+Change Component Designator: OldDesignator=R35_CAN2 NewDesignator=R35_C2
+Change Component Designator: OldDesignator=R35_CAN3 NewDesignator=R35_C3
+Change Component Designator: OldDesignator=U2_CAN1 NewDesignator=U2_C1
+Change Component Designator: OldDesignator=U2_CAN2 NewDesignator=U2_C2
+Change Component Designator: OldDesignator=U2_CAN3 NewDesignator=U2_C3
+Change Net Name : Old Net Name=CAN_CAN1_N New Net Name=CAN_C1_N
+Change Net Name : Old Net Name=CAN_CAN1_P New Net Name=CAN_C1_P
+Change Net Name : Old Net Name=CAN_CAN2_N New Net Name=CAN_C2_N
+Change Net Name : Old Net Name=CAN_CAN2_P New Net Name=CAN_C2_P
+Change Net Name : Old Net Name=CAN_CAN3_N New Net Name=CAN_C3_N
+Change Net Name : Old Net Name=CAN_CAN3_P New Net Name=CAN_C3_P
+Change Class Name : Old Net Name=CAN1 New Net Name=C1
+Change Class Name : Old Net Name=CAN2 New Net Name=C2
+Change Class Name : Old Net Name=CAN3 New Net Name=C3
+Added Differential Pair: Name=CAN_C1
+Added Differential Pair: Name=CAN_C2
+Added Differential Pair: Name=CAN_C3
+Added Room: Name=C1
+Added Room: Name=C2
+Added Room: Name=C3
