@@ -13,9 +13,5 @@ SCHEMATIC CREATION
  - Ask about caps on external oscellator
 
 LAYOUT
- - Put testpoints around the ethernet PHY to allow for modifications if needed
- - Add RMII testpoints to use with another ethernet PHY board if needed
- - Put ESD chip close to the ethernet PHY and SD card pins
- - Turn all 3.5mil traces into 5mil
 
 
