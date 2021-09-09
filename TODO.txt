@@ -13,10 +13,10 @@ SCHEMATIC CREATION
 
 LAYOUT
  [_] Ask about caps on external oscellator (ask jerihmiha)
- [x] R33 and R34 are too close
- [_] R5 R4 R3 flip silckscreen
- [_] Add some silkscreen to some test points
- [_] Check silkscreen via positioning
  [_] ask Jerimiah about x1 caps on phy
+ [x] R33 and R34 are too close
+ [x] R5 R4 R3 flip silckscreen
+ [_] Add some silkscreen to some test points
+ [x] Check silkscreen via positioning
  [_] Fix RMII and eth traces
 
