@@ -12,11 +12,20 @@ DEV BOARD TESTING
 SCHEMATIC CREATION
 
 LAYOUT
- [_] Ask about caps on external oscellator (ask jerihmiha)
- [_] ask Jerimiah about x1 caps on phy
+ [_] Ask Jerimiah about x1 caps on phy
  [x] R33 and R34 are too close
  [x] R5 R4 R3 flip silckscreen
- [_] Add some silkscreen to some test points
+ [x] Add some silkscreen to some test points
  [x] Check silkscreen via positioning
- [_] Fix RMII and eth traces
+ [x] Fix RMII and eth traces
+ [x] Change silkscreen on 0602 components
 
+
+REV2 LAYOUT
+ - Rotate MCU to put the SD pins at the top of the board, not the right
+   - This will also put RMII on the back which is good
+ - Rotate Ethernet PHY 90degrees to put the magnetics in the correct spot realitive to the phy
+   - RMII will also be to the right
+ - Route traces through ESD protection first
+   - Maybe use 2 or 3 ESD protection chips
+ - Be smarter about test points and where to put them
