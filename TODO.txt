@@ -20,6 +20,8 @@ LAYOUT
  [x] Fix RMII and eth traces
  [x] Change silkscreen on 0602 components
 
+ [_] Replace can tranciever to one in stock
+
 
 REV2 LAYOUT
  - Rotate MCU to put the SD pins at the top of the board, not the right

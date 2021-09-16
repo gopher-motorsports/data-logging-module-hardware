@@ -1,0 +1,97 @@
+Change Component Footprint: Designator=U2_C1 Old Footprint=D0008A_M New Footprint=D0008A_N
+Change Component Footprint: Designator=U2_C2 Old Footprint=D0008A_M New Footprint=D0008A_N
+Change Component Footprint: Designator=U2_C3 Old Footprint=D0008A_M New Footprint=D0008A_N
+Change Component Comment : Designator=U2_C1 Old Comment=SN65HVD232QDG4 New Comment=SN65HVD231QDRG4
+Change Component Comment : Designator=U2_C2 Old Comment=SN65HVD232QDG4 New Comment=SN65HVD231QDRG4
+Change Component Comment : Designator=U2_C3 Old Comment=SN65HVD232QDG4 New Comment=SN65HVD231QDRG4
+Change Managed Component Library Link : Designator=U2_C1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=14032BB5-BA55-4AA0-8EFD-03D75F2E1801 New ItemGUID=F616D382-210E-40D2-8A03-D7706DF90ABF Old RevisionGUID=56BFCDA8-7FE2-440A-9B5F-5B331E5F960C New RevisionGUID=FD7AEF4A-BB91-48B4-BD83-733B953CF63D
+Change Managed Component Library Link : Designator=U2_C2 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=14032BB5-BA55-4AA0-8EFD-03D75F2E1801 New ItemGUID=F616D382-210E-40D2-8A03-D7706DF90ABF Old RevisionGUID=56BFCDA8-7FE2-440A-9B5F-5B331E5F960C New RevisionGUID=FD7AEF4A-BB91-48B4-BD83-733B953CF63D
+Change Managed Component Library Link : Designator=U2_C3 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=14032BB5-BA55-4AA0-8EFD-03D75F2E1801 New ItemGUID=F616D382-210E-40D2-8A03-D7706DF90ABF Old RevisionGUID=56BFCDA8-7FE2-440A-9B5F-5B331E5F960C New RevisionGUID=FD7AEF4A-BB91-48B4-BD83-733B953CF63D
+Change component parameters: Designator = "U2_C1" ("U2"); Footprint = "D0008A_M"; UniqueID = "\ALOFOKSQ\ZVCOGJBC" ("\ALOFOKSQ\ZVCOGJBC")
+Change component parameters (AddParameter): Name = "Bus Fault Voltage(V)"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Code_JEDEC"; Value = "MS-012AA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=SN65HVD231Q-Q1&fileType=pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "SGLS398A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Drivers Per Package"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Eco-Plan"; Value = "Green (RoHS & no Sb/Br)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Features"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ICC(Max)(mA)"; Value = "17"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Isolated"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Low Power Mode"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "8-Pin Plastic Small Outline Integrated Circuit, 4.9 x 3.9 mm, Pitch 1.27 mm Pitch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "D0008A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageVersion"; Value = "revM, Jun-2011"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "SN65HVD231QDRQ1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = "Automotive"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Receivers Per Package"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SubFamily"; Value = "CAN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supply Voltage(s)(V)"; Value = "3.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Transient Pulse Protection(V)"; Value = "-25 to 25"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U2_C2" ("U2"); Footprint = "D0008A_M"; UniqueID = "\XPBTICDR\ZVCOGJBC" ("\XPBTICDR\ZVCOGJBC")
+Change component parameters (AddParameter): Name = "Bus Fault Voltage(V)"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Code_JEDEC"; Value = "MS-012AA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=SN65HVD231Q-Q1&fileType=pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "SGLS398A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Drivers Per Package"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Eco-Plan"; Value = "Green (RoHS & no Sb/Br)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Features"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ICC(Max)(mA)"; Value = "17"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Isolated"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Low Power Mode"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "8-Pin Plastic Small Outline Integrated Circuit, 4.9 x 3.9 mm, Pitch 1.27 mm Pitch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "D0008A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageVersion"; Value = "revM, Jun-2011"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "SN65HVD231QDRQ1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = "Automotive"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Receivers Per Package"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SubFamily"; Value = "CAN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supply Voltage(s)(V)"; Value = "3.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Transient Pulse Protection(V)"; Value = "-25 to 25"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U2_C3" ("U2"); Footprint = "D0008A_M"; UniqueID = "\DYWIFHYL\ZVCOGJBC" ("\DYWIFHYL\ZVCOGJBC")
+Change component parameters (AddParameter): Name = "Bus Fault Voltage(V)"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Code_JEDEC"; Value = "MS-012AA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=SN65HVD231Q-Q1&fileType=pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "SGLS398A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Drivers Per Package"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Eco-Plan"; Value = "Green (RoHS & no Sb/Br)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Features"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ICC(Max)(mA)"; Value = "17"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Isolated"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Low Power Mode"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "8-Pin Plastic Small Outline Integrated Circuit, 4.9 x 3.9 mm, Pitch 1.27 mm Pitch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "D0008A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageVersion"; Value = "revM, Jun-2011"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "SN65HVD231QDRQ1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = "Automotive"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Receivers Per Package"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SubFamily"; Value = "CAN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supply Voltage(s)(V)"; Value = "3.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Transient Pulse Protection(V)"; Value = "-25 to 25"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U2_C1-8
+Added Pin To Net: NetName=GND Pin=U2_C2-8
+Added Pin To Net: NetName=GND Pin=U2_C3-8
+Added Room: Name=C1
+Added Room: Name=C2
+Added Room: Name=C3
+Added Room: Name=U_CONNECTOR
+Added Room: Name=U_ESD_PROTECTION
+Added Room: Name=U_ETHERNET_INTERFACE
+Added Room: Name=U_LEDS
+Added Room: Name=U_MCU
+Added Room: Name=U_MCU_POWER
+Added Room: Name=U_SD_INTERFACE
